@@ -215,7 +215,7 @@ If we want to create fully functional front end application, then vue-router and
 
     You can find this how to use vue-router in VueJS project in the following Github URL
 
-    https://github.com/TECHIES-HUB1/Vue-Router/blob/master/VueRouter-master.zip
+    https://github.com/TECHIES-HUB1/Vue-Router
 
     Clone the repository Go to the project folder and install the dependencies via "npm install" Start the webpack server by "npm start" Go to the URL: http://localhost:3000
 
